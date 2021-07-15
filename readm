@@ -1,0 +1,15 @@
+npm init
+npm i --save body-parser
+npm i --save cors
+npm i --save express
+tsc --init
+    tsconfig  // outdir:'./dist' , types
+create index.ts
+tsc -w
+nodemon dist
+
+create classes/server.ts 
+npm install @types/express --save-dev
+
+
+c global/environment.ts
